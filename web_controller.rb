@@ -4,7 +4,7 @@
 
 require "selenium-webdriver"
 
-Selenium::WebDriver::Chrome.driver_path = "/Users/Josh/Desktop/chromedriver"
+Selenium::WebDriver::Chrome.driver_path = "path to chromedriver here"
 
 class WebController
     
