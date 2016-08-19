@@ -16,7 +16,7 @@ Just to put the score into perspective, here a a few stats from running the AI o
 
 * The AI reached the 384 tile 82% of the time, only about 32% of players ever reach this tile.
 * The AI reached the 768 tile 38% of the time, only about 8% of players ever reach this tile.
-* The AI reached the 1536 tile 5% of the time, only about 0.18% of players even reach this tile.
+* The AI reached the 1536 tile 5% of the time, only about 0.18% of players ever reach this tile.
 
 And now of course, the goal is to optimize this more to try and achieve the elusive 3072 tile.
 
